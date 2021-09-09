@@ -1,0 +1,10 @@
+C:\Users\Hustlei\source\repos\CalculadoraResolveX\bin\Debug\CalculadoraResolveX.exe.config
+C:\Users\Hustlei\source\repos\CalculadoraResolveX\bin\Debug\CalculadoraResolveX.exe
+C:\Users\Hustlei\source\repos\CalculadoraResolveX\bin\Debug\CalculadoraResolveX.pdb
+C:\Users\Hustlei\source\repos\CalculadoraResolveX\obj\Debug\CalculadoraResolveX.Form1.resources
+C:\Users\Hustlei\source\repos\CalculadoraResolveX\obj\Debug\CalculadoraResolveX.Properties.Resources.resources
+C:\Users\Hustlei\source\repos\CalculadoraResolveX\obj\Debug\CalculadoraResolveX.csproj.GenerateResource.cache
+C:\Users\Hustlei\source\repos\CalculadoraResolveX\obj\Debug\CalculadoraResolveX.csproj.CoreCompileInputs.cache
+C:\Users\Hustlei\source\repos\CalculadoraResolveX\obj\Debug\CalculadoraResolveX.exe
+C:\Users\Hustlei\source\repos\CalculadoraResolveX\obj\Debug\CalculadoraResolveX.pdb
+C:\Users\Hustlei\source\repos\CalculadoraResolveX\obj\Debug\CalculadoraResolveX.csproj.AssemblyReference.cache
